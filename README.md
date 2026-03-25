@@ -1,13 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=200&section=header&text=CHILUKUMARI%20PAVAN%20TEJA&fontSize=40&fontAlignY=35&fontColor=ffffff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=PAVAN%20TEJA&fontSize=40&fontAlignY=35&fontColor=ffffff"/>
 
-<h1 align="center">Hi 👋, I'm CHILUKUMARI PAVAN TEJA</h1>
+<h1 align="center">Hi 👋, I'm CHILUKAMARI PAVAN TEJA</h1>
 
 <h3 align="center">
-Frontend Developer • MERN Stack Enthusiast • DSA Learner
+🚀 Full Stack Developer • AI/ML Enthusiast • Problem Solver
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;MERN+Stack+Developer;DSA+Enthusiast"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&lines=Building+AI-powered+applications;Machine+Learning+%7C+NLP+%7C+Computer+Vision;Full+Stack+Development+with+MERN;DSA+Enthusiast"/>
 </p>
 
 <p align="center">
@@ -20,26 +20,34 @@ Frontend Developer • MERN Stack Enthusiast • DSA Learner
 
 ## 👨‍💻 About Me
 
-* 🔭 Currently working on **Image Tampering Detection using Dual Branch Deep Learning**
-* 🌱 Learning **Data Structures & Algorithms and MERN Stack**
-* 💬 Ask me about **Algorithms, JavaScript, React, MERN**
-* 📫 Email: **[chilukamaripavanteja@gmail.com](mailto:chilukamaripavanteja@gmail.com)**
-* ⚡ Fun fact: **I enjoy solving coding problems and building web applications**
+- 🧠 AI/ML student passionate about building intelligent systems  
+- 🔭 Currently working on **Image Tampering Detection using Deep Learning**  
+- 🌱 Learning **Advanced DSA & MERN Stack Development**  
+- 💡 Interested in **Machine Learning, NLP, and Computer Vision**  
+- ⚡ I enjoy solving coding problems and building real-world applications  
 
 ---
 
-## 🚀 Most Used Languages
+## 🚀 Featured Projects  
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js"/>
-</p>
+🔹 **AI Resume Evaluation Dashboard**  
+- NLP-based resume-job matching system  
+- Improves matching efficiency by ~30%  
+
+🔹 **Crime Rate Prediction**  
+- ML models with data analysis & visualization  
+- Pattern detection from real-world datasets  
+
+🔹 **Image Tampering Detection**  
+- Deep learning-based image verification  
+- Detects manipulated regions in images  
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,react,nodejs,mongodb,mysql,git,linux"/>
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,react,nodejs,html,css,mongodb,mysql,git,linux"/>
 </p>
 
 ---
@@ -71,26 +79,17 @@ Frontend Developer • MERN Stack Enthusiast • DSA Learner
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=pavan-x&show_icons=true&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=pavan-x&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pavan-x&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan-x&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pavan-x&theme=tokyonight"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavan-x&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 📈 GitHub Contribution Activity
+## 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pavan-x&theme=tokyo-night"/>
@@ -101,17 +100,14 @@ Frontend Developer • MERN Stack Enthusiast • DSA Learner
 ## 🌐 Connect With Me
 
 <p align="center">
-
 <a href="https://linkedin.com/in/chilukamaripavanteja">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
-
 <a href="mailto:chilukamaripavanteja@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
-
 </p>
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=120&section=footer"/>
